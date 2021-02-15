@@ -1,2 +1,2 @@
 This is test for rebase
-modifying from  branch
+modifying from  branch mybranch
